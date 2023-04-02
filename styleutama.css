@@ -1,0 +1,23 @@
+*{
+    
+}
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.kotak1 {
+    margin-left: 65px;
+    margin-top: 40px;
+    /* float: left; */
+    display: inline-block;
+    background-color: lightcyan;
+}
+
+.caption {
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
